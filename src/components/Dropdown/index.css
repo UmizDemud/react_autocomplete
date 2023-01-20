@@ -1,0 +1,12 @@
+.deniz-dropdown {
+	max-height: 240px;
+	overflow-y: scroll;
+}
+
+.selected {
+	background-color: aquamarine;
+}
+
+.dropdown-content {
+	padding: 0.5rem;
+}
